@@ -39,7 +39,7 @@ Open `radison.html` in your browser to view the website.
 ## 📦 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/radison-clone.git
+   [git clone https://github.com/yourusername/radison-clone.git](https://github.com/priyaanshkurmi/Radisson-clone.git)
 
 
 cd radison-clone
